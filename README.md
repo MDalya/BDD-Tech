@@ -1,6 +1,6 @@
 # BDD-Tech
 Repository for the block 2 BDD data-driven platform project
-
+#Ross and Miona
 #APA References list for the block 2 project
 1. Lops et al., 2011 – Content-Based Recommender Systems;
 2. Koren et al., 2009 – Matrix Factorization Techniques for Recommender Systems;
